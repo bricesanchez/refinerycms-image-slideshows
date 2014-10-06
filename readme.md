@@ -1,4 +1,5 @@
 # Image Slideshows
+[![Gitter](https://badges.gitter.im/Join Chat.svg)](https://gitter.im/bricesanchez/refinerycms-image-slideshows?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 ![Refinery Image Slideshows](https://dl.dropbox.com/u/80562357/Upload/gem_refinerycms_image_slideshows.png)
 
